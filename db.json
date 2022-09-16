@@ -1,16 +1,89 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+  "food":
+  [
+      {
+          "id" : "1",
+          "name" : "pilau",
+          "price" : "14.50",
+          "description" : "rice with chicken"
+      },
+
+      {
+          "id" : "2",
+          "name" : "Fries",
+          "price" : "7.50",
+          "description" : "deep fried potatoes"
+      },
+
+      {
+          "id" : "3",
+          "name" : "pizza",
+          "price" : "20.10",
+          "description" : "pizza with chicken"
+      },
+
+      {
+          "id" : "4",
+          "name" : "ham and cheese",
+          "price" : "4.50",
+          "description" : "ham and cheese sandwich"
+      },
+
+      {
+          "id" : "5",
+          "name" : "salted caramel",
+          "price" : "2.50",
+          "description" : "salted caramel ice cream"
+      },
+
+      {
+          "id" : "6",
+          "name" : "butter",
+          "price" : "16.00",
+          "description" : "butter and bread"
+      },
+
+      {
+          "id" : "7",
+          "name" : "spaghetti",
+          "price" : "10.00",
+          "description" : "spaghetti and meatballs"
+      },
+
+      {
+          "id" : "8",
+          "name" : "apple pie",
+          "price" : "30.00",
+          "description" : "apple pie and ice cream"
+      },
+
+      {
+          "id" : "9",
+          "name" : "peanut butter",
+          "price" : "5.00",
+          "description" : "peanut butter and jelly"
+      },
+
+      {
+          "id" : "10",
+          "name" : "raspberry",
+          "price" : "12.75",
+          "description" : "raspberry and cream"
+      },
+
+      {
+          "id" : "11",
+          "name" : "bacon",
+          "price" : "10.00",
+          "description" : "bacon and eggs"
+      },
+
+      {
+          "id" : "12",
+          "name" : "salmon",
+          "price" : "16.50",
+          "description" : "salmon and cream cheese"
+      }
+
   ]
 }
